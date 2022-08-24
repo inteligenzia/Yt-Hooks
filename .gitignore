@@ -10,6 +10,7 @@
 
 # production
 /build
+.ytKey
 
 # misc
 .DS_Store
