@@ -1,0 +1,15 @@
+div.ui.relaxed.divided.list div.item.video-item {
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+}
+
+.video-item.item .content {
+  flex: 1 1 0;
+}
+
+.video-item.item img {
+  width: 160px;
+  height: 100%;
+  flex: 0 0 160px;
+}
